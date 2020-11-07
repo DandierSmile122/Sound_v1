@@ -1,0 +1,9 @@
+name: Sound_v1
+main: Dandier\Jamet
+version: 1.0 - Subscribe
+api: 3.6.5
+author: DandierSmile122
+
+commands:
+  sound:
+    description: "§bplay sound in here!"
